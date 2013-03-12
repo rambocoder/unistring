@@ -1,0 +1,2 @@
+-module(unistring_app).
+-vsn("0.1.0").
